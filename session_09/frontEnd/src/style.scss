@@ -1,0 +1,28 @@
+$textBlack:'#000000';
+$textGreen:'#3DDC97';
+$textPurple:'#46237A';
+$textBlue:'#256EFF';
+$textRed:'#FF495C';
+
+
+body{
+    div{
+        div{
+
+            h1{
+                color: $textGreen;
+            }
+    
+            h2{
+                color: $textRed
+            }
+    
+            p{
+                color: $textBlack
+            }
+            span{
+                color: $textBlack
+            }
+        }
+    }
+}
